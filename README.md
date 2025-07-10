@@ -28,11 +28,10 @@ Actualmente estoy planificando el desarrollo de su interfaz frontend con React, 
 
 > Tecnologías: Java · Spring Boot · JWT · Spring Security Avanzado · Microservicios · Docker · MongoDB · MySQL · n8n
 
----
 
 ## 🛠️ Tecnologías principales
 
-```markdown
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
